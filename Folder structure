@@ -1,0 +1,16 @@
+dashboard/
+│
+├── src/
+│   ├── __init__.py           # Package initialization
+│   ├── data_analyzer.py      # Data analysis module
+│   ├── news_analyzer.py      # News analysis module
+│   └── visualization.py      # Visualization module
+│
+├── tests/
+│   ├── __init__.py          # Test package initialization
+│   └── test_news_analyzer.py # Unit tests
+│
+├── app.py                    # Main Streamlit application
+├── setup.py                  # Package setup file
+├── requirements.txt          # Project dependencies
+└── README.md                # Project documentation
