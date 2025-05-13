@@ -114,7 +114,7 @@ st.markdown("""
 """, unsafe_allow_html=True)
 
 # Configure Gemini API
-GOOGLE_API_KEY = "AIzaSyCjZs7_ugPN0L6SsWITcbs3RXEttPG_t4w"
+GOOGLE_API_KEY = "Google_API_KEY"
 GEMINI_API_URL = "https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent"
 
 def get_gemini_response(df, query, analyzer):
