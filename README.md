@@ -141,5 +141,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Author
 
+![image](https://github.com/user-attachments/assets/42e64bbc-ec82-46b7-b52e-87ea1c019dee)
+
 - **Amit Khopade**
   - GitHub: [@Amitkhopade](https://github.com/Amitkhopade)
